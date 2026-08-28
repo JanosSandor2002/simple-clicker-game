@@ -19,13 +19,7 @@ In Simple Clicker Game, you start by choosing a class, then face off against **1
 
 - **Java** (native, no external frameworks)
 
-## Play It
-
-A downloadable `.jar` file is available, playable with a JDK:
-
-👉 [Download from Google Drive](https://drive.google.com/drive/folders/1lNvvRAqOzIF4pnWUgEcFEpYMFFZNNJrm?usp=drive_link)
-
-### Running the Jar
+## Running the Jar
 
 Make sure you have a JDK installed, then run:
 

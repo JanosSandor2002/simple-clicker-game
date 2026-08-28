@@ -19,13 +19,7 @@ A Simple Clicker Game-ben egy karakterosztály kiválasztásával kezdesz, majd 
 
 - **Java** (natív, külső keretrendszerek nélkül)
 
-## Kipróbálás
-
-Egy letölthető `.jar` fájl érhető el, amely JDK-val futtatható:
-
-👉 [Letöltés Google Drive-ról](https://drive.google.com/drive/folders/1lNvvRAqOzIF4pnWUgEcFEpYMFFZNNJrm?usp=drive_link)
-
-### A jar futtatása
+## A jar futtatása
 
 Győződj meg róla, hogy telepítve van egy JDK, majd futtasd:
 
